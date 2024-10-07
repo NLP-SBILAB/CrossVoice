@@ -1,7 +1,7 @@
 # CrossVoice: Crosslingual Prosody Preserving Cascade-S2ST using Transfer Learning
 
 
-This repository contains the code for our work titled `CrossVoice: Crosslingual Prosody Preserving Cascade-S2ST using Transfer Learning`, accepted at the Tiny Track of ICLR'24. The following scripts contain the code for the CrossVoice Pipeline for various hardware settings:
+This repository contains the code for our work titled `CrossVoice: Crosslingual Prosody Preserving Cascade-S2ST using Transfer Learning`, accepted at the **Tiny Track of ICLR'24**. The following scripts contain the code for the CrossVoice Pipeline for various hardware settings:
 
 *  `crossvoice_fastwhisper_cpu.py`: CPU Implementation using FastWhisper.
 *  `crossvoice_whisper_gpu.py`: GPU Implementation using Whisper/Medium.
